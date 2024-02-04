@@ -2,15 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
+# Onboarding Screen
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![c](https://github.com/puskottampandey/OnboardingScreen/assets/83902408/8f5bc168-5207-4a93-8be9-076437680429)
+![B](https://github.com/puskottampandey/OnboardingScreen/assets/83902408/0f2f1d2a-e2c3-411f-bcb7-978ecaaacc62)
+![A](https://github.com/puskottampandey/OnboardingScreen/assets/83902408/716d7378-e367-4da7-bead-36175b93e885)
